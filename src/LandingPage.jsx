@@ -12,12 +12,12 @@ function LandingPage() {
         latitude: position.coords.latitude,
         longitude: position.coords.longitude,
       });
-      // Navigate to the StudentStatus page once the location is fetched
+      // navigate to StudentStatus page after location fetched
       navigate('/studentstatus');
     });
-  }, [navigate]);  // Added navigate as a dependency
+  }, [navigate]);  // navigate is dependency
 
-  // You can add more JSX to be rendered here...
+
   return (
     <div className="location-selection">
       <div className="dark-gray-background">

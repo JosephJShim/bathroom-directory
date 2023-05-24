@@ -10,7 +10,7 @@ function App() {
   return (
   <Router>
     <Routes>
-    <Route exact path="/" element={<LandingPage />} />
+    <Route exact path="/bathroom-directory" element={<LandingPage />} />
     <Route path="/studentstatus" element={<StudentStatus />} />
     <Route path="/genderselection" element={<GenderSelection />} />
     {/* <Route path="/featureselection" element={<FeatureSelection />} />

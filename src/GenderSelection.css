@@ -38,18 +38,17 @@
 .nu-bathroom-finder {
     font-size: 3rem;
     align-self: center;
-    margin-top: 19px;
-    margin-bottom: 40px;
-    margin-left: 19px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
     white-space: nowrap;
 }
 
 
 .what-gender {
     align-self: center;
-    margin-top: 19px;
-    margin-bottom: 40px;
-    margin-left: 19px;
+    margin-top: 15px;
+    margin-bottom: 15px;
     font-size: 1.511rem;
     line-height: 33px;
 }
@@ -60,11 +59,11 @@
     align-items: center;
     border: 2px solid #000;
     border-radius: 20px;
-    padding: 10px; /* Change from percentage to fixed pixel value */
+    padding: 10px;
     cursor: pointer;
     background-color: #e5e5e5;
-    margin: 15px; /* Change from percentage to fixed pixel value */
-    width: 80vw; /* This should be 80% of the viewport width */
+    margin: 15px; 
+    width: 80vw; /* % of viewport*/
     height: 60px;
     text-align: center;
     max-width: 70%;
