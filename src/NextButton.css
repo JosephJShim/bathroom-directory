@@ -1,0 +1,35 @@
+.next-button {
+    background-color: #927FB5; /* Purple background */
+    color: #FFFFFF; /* White text */
+    border-radius: 20px; /* Rounded corners */
+    padding: 10px 20px; /* Some padding to make the button larger */
+    font-family: 'Mukta', Arial, sans-serif; /* Mukta font, with Arial and sans-serif as fallbacks */
+    font-size: 3rem; /* Adjust this as needed to change the font size */
+    border: none; /* Remove default button border */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    text-align: center; /* Center the text */
+    display: inline-block; /* Allow setting width/height */
+    width: 50%; /* Or whatever width you want */
+    height: 120px; /* Or whatever height you want */
+    border: 2px solid black;
+    box-shadow: 0px 3px 2px grey;
+  }
+  
+  .next-button:disabled {
+    background-color: #BDBDBD; /* Gray background for disabled button */
+    cursor: not-allowed; /* Change cursor for disabled button */
+  }
+  
+  .next-button:hover {
+    background-color: #927FB5; /* Darker purple background on hover */
+  }
+  
+  .next-button-container {
+    position: absolute;
+    bottom: 100px;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+  }
+  

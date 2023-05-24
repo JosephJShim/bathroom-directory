@@ -1,0 +1,49 @@
+.location-selection {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: #000;
+    background-color: #d9d9d9;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    font-family: Mukta, Arial;
+    font-size: 1.944rem;
+    font-weight: 400;
+    line-height: 33px;
+    display: flex;
+  }
+  
+  
+  .dark-gray-background {
+    height: 80%;
+    background-color: #e5e5e5;
+    border-radius: 20px;
+    flex-direction: column;
+    flex-basis: 87%;
+    justify-content: flex-start;
+    align-self: center;
+    align-items: center;
+    padding-top: 80px;
+    padding-left: 1px;
+    display: flex;
+  }
+  
+  .nu-bathroom-finder {
+    font-size: 3rem;
+    align-self: center;
+    margin-top: 19px;
+    margin-bottom: 85px;
+    margin-left: 1px;
+  }
+  
+  .get-location-text {
+    align-self: center;
+    font-size: 1.711rem;
+    line-height: 33px;
+  }
