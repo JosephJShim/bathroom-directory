@@ -9,10 +9,16 @@
     cursor: pointer; /* Change cursor to pointer on hover */
     text-align: center; /* Center the text */
     display: inline-block; /* Allow setting width/height */
-    width: 50%; /* Or whatever width you want */
-    height: 120px; /* Or whatever height you want */
+    width: 40vw; /* Or whatever width you want */
+    height: 100px; /* Or whatever height you want */
     border: 2px solid black;
     box-shadow: 0px 3px 2px grey;
+
+    justify-content: center;
+    align-items: center;
+    margin: 15px; 
+    text-align: center;
+
   }
   
   .next-button:disabled {
@@ -21,15 +27,39 @@
   }
   
   .next-button:hover {
-    background-color: #927FB5; /* Darker purple background on hover */
+    background-color: #927FB5; /* pruple on hover*/
   }
   
-  .next-button-container {
+
+
+.next-button:disabled {
+    background-color: #BDBDBD;
+    cursor: not-allowed;
+}
+
+.next-button:hover {
+    background-color: #927FB5;
+}
+
+.next-button-container {
     position: absolute;
-    bottom: 100px;
+    bottom: 10vh; /* This value makes it proportional to the viewport height */
     left: 0;
     right: 0;
     display: flex;
     justify-content: center;
-  }
-  
+}
+
+
+/* mobile */
+@media only screen and (max-width: 600px) {
+    .next-button {
+        font-size: 1.5rem; /* Adjust font size */
+        width: 80%; /* Adjust width */
+        height: 60px; /* Adjust height */
+        padding: 5px 10px; /* Adjust padding */
+    }
+
+
+}
+

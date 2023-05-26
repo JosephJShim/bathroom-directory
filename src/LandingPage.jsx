@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
-import './LandingPage.css';
+import './global.css';
+
+
 
 function LandingPage() {
   const [location, setLocation] = useState(null);
@@ -19,10 +21,10 @@ function LandingPage() {
 
 
   return (
-    <div className="location-selection">
-      <div className="dark-gray-background">
+    <div className="page-bg1">
+      <div className="page-bg2">
         <h1 className="nu-bathroom-finder">NU Bathroom Finder</h1>
-        <p className="get-location-text">
+        <p className="prompt-text">
           To start, please allow access to your location.
         </p>
         {location ? (

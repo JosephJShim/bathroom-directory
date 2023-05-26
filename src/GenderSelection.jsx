@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import RadioButton from './RadioButton';
-import './GenderSelection.css';
+import './global.css';
 import './NextButton.css';
 
 function GenderSelection() {
@@ -17,10 +17,10 @@ function GenderSelection() {
     };
   
     return (
-      <div className="gender-selection">
-        <div className="rectangle">
+      <div className="page-bg1">
+        <div className="page-bg2">
           <h1 className="nu-bathroom-finder">NU Bathroom Finder</h1>
-          <h2 className="what-gender">What gender bathrooms?</h2>
+          <h2 className="prompt-text">What gender bathrooms?</h2>
           <RadioButton 
             label="Men and All Gender" 
             selected={genderSelection === 'Men'} 

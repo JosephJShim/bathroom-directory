@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import './global.css';
 import LandingPage from './LandingPage';
 import StudentStatus from './StudentStatus';
 import GenderSelection from './GenderSelection';

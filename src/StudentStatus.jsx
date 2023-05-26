@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import RadioButton from './RadioButton';
-import './StudentStatus.css';
+import './global.css';
 import './NextButton.css';
 
 function StudentStatus() {
@@ -17,10 +17,10 @@ function StudentStatus() {
     };
   
     return (
-      <div className="student-status">
-        <div className="rectangle">
+      <div className="page-bg1">
+        <div className="page-bg2">
           <h1 className="nu-bathroom-finder">NU Bathroom Finder</h1>
-          <h2 className="who-are-you">Who are you?</h2>
+          <h2 className="prompt-text">Who are you?</h2>
           <RadioButton 
             label="I am a student" 
             selected={studentStatus === 'Student'} 
