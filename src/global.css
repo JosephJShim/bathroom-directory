@@ -1,24 +1,12 @@
-/* rotating screen */
-.rotate-screen-overlay {
-    display: none;
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    background-color: rgba(0,0,0,0.85);
-    color: #fff;
-    z-index: 99999;
-    text-align: center;
-    padding-top: 40%;
-    font-size: 2em;
-  }
-  
-  @media screen and (orientation: landscape) {
-    .rotate-screen-overlay {
-      display: block;
-    }
-  }
+* {
+  box-sizing: border-box;
+}
+
+body, html {
+  font-family: 'Mukta', Arial, sans-serif;
+}
+
+
   
   /* page background */
   .page-bg1 {
@@ -35,7 +23,6 @@
     align-items: center;
     padding-top: 6px;
     padding-bottom: 5px;
-    font-family: Mukta, Arial;
     font-size: 1.944rem;
     font-weight: 400;
     line-height: 33px;
@@ -44,7 +31,7 @@
 }
 
 .page-bg2 {
-    height: 80%;
+    height: 90%;
     background-color: #e5e5e5;
     border-radius: 20px;
     flex-direction: column;
@@ -84,7 +71,7 @@
     cursor: pointer;
     background-color: #e5e5e5;
     margin: 10px; 
-    width: 80vw; /* % of viewport*/
+    width: 80vw; 
     height: 60px;
     text-align: center;
     max-width: 70%;
@@ -102,35 +89,133 @@
 }
 
 
+/* selectable features */
+.selectable-feature {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 2px solid #000;
+  border-radius: 20px;
+  padding: 5px;
+  cursor: pointer;
+  background-color: #e5e5e5;
+  margin: 10px; 
+  width: 80vw;
+  height: 60px;
+  max-width: 70%;
+  font-family: 'Mukta', Arial, sans-serif;
+}
+
+.selectable-feature.selected {
+  background-color: #927FB5;
+  color: #fff;
+}
+
+.selectable-feature label {
+  display: block;
+  cursor: pointer;
+  color: inherit;
+  flex-grow: 1;
+  text-align: center;
+}
+
+.selectable-feature .checkbox {
+  width: 35px;
+  height: 35px;
+  border: 3.3px solid #d9d9d9; 
+  border-radius: 10px;
+  background-color: #F5F5F5; 
+  margin-left: 12px; 
+}
+
+.selectable-feature.selected .checkbox {
+  width: 35px;
+  height: 35px;
+  border: 3.3px solid #d9d9d9;
+  border-radius: 10px;
+  background-color: #4E2A84; 
+  margin-left: 12px; 
+}
+
 /* for mobile */
+
+/* rotating screen
+.rotate-screen-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0,0,0,0.85);
+  color: #fff;
+  z-index: 99999;
+  text-align: center;
+  padding-top: 40%;
+  font-size: 2em;
+} */
+/* 
+@media screen and (max-width: 768px) and (orientation: landscape) {
+  body, html {
+    font-size: 0.5vw;
+  }
+
+  .page-bg1 {
+    font-size: 1.5vw;
+    padding-top: 0.2vw;
+    padding-bottom: 0.2vw;
+  }
+
+  .page-bg2 {
+    height: 90vh;
+    padding-top: 5vh;
+  }
+
+  .nu-bathroom-finder {
+    font-size: 1vw;
+    margin-top: 0.2vw;
+    margin-bottom: 0.2vw;
+  }
+
+  .prompt-text {
+    font-size: 1vw;
+  }
+
+  .radio-button {
+    padding: 0.2vw;
+    margin: 0.2vw;
+    width: 80vw;
+    height: 10vh;
+  }
+} */
+
+
 @media only screen and (max-width: 600px) {
   .radio-button {
-      padding: 10px;
-      margin: 10px;
-      width: 80vw;
+    padding: 15px;
+    margin: 15px;
+    width: 80%;
+    font-size: 5vw;
   }
+
   .page-bg1 {
-    /* Adjust these values as needed */
-    font-size: 1rem;
+    font-size: 2.5vw;
     padding-top: 3px;
     padding-bottom: 2px;
   }
 
   .page-bg2 {
-    /* Adjust these values as needed */
     height: 90%;
     padding-top: 40px;
   }
 
   .nu-bathroom-finder {
-    /* Adjust these values as needed */
-    font-size: 2rem;
+    font-size: 8vw;
     margin-top: 8px;
     margin-bottom: 8px;
   }
 
   .prompt-text {
-    /* Adjust these values as needed */
-    font-size: 1rem;
+    font-size: 4.5vw;
   }
 }

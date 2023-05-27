@@ -22,12 +22,12 @@ function GenderSelection() {
           <h1 className="nu-bathroom-finder">NU Bathroom Finder</h1>
           <h2 className="prompt-text">What gender bathrooms?</h2>
           <RadioButton 
-            label="Men and All Gender" 
+            label="Men/All Gender" 
             selected={genderSelection === 'Men'} 
             onSelect={() => handleSelect('Men')} 
           />
           <RadioButton 
-            label="Women and All Gender" 
+            label="Women/All Gender" 
             selected={genderSelection === 'Women'} 
             onSelect={() => handleSelect('Women')} 
           />
