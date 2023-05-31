@@ -1,16 +1,16 @@
 .next-button {
-    background-color: #927FB5; /* Purple background */
-    color: #FFFFFF; /* White text */
-    border-radius: 20px; /* Rounded corners */
-    padding: 10px 20px; /* Some padding to make the button larger */
-    font-family: 'Mukta', Arial, sans-serif; /* Mukta font, with Arial and sans-serif as fallbacks */
-    font-size: 3rem; /* Adjust this as needed to change the font size */
-    border: none; /* Remove default button border */
-    cursor: pointer; /* Change cursor to pointer on hover */
-    text-align: center; /* Center the text */
-    display: inline-block; /* Allow setting width/height */
-    width: 40vw; /* Or whatever width you want */
-    height: 100px; /* Or whatever height you want */
+    background-color: #927FB5; 
+    color: #FFFFFF; 
+    border-radius: 20px;
+    padding: 10px 20px;
+    font-family: 'Mukta', Arial, sans-serif;
+    font-size: 3rem; 
+    border: none;
+    cursor: pointer;  
+    text-align: center; 
+    display: inline-block; 
+    width: 40vw; 
+    height: 100px;  
     border: 2px solid black;
     box-shadow: 0px 3px 2px grey;
 
@@ -22,12 +22,12 @@
   }
   
   .next-button:disabled {
-    background-color: #BDBDBD; /* Gray background for disabled button */
-    cursor: not-allowed; /* Change cursor for disabled button */
+    background-color: #BDBDBD;  
+    cursor: not-allowed; 
   }
   
   .next-button:hover {
-    background-color: #927FB5; /* pruple on hover*/
+    background-color: #927FB5;  
   }
   
 
@@ -43,7 +43,7 @@
 
 .next-button-container {
     position: absolute;
-    bottom: 10vh; /* This value makes it proportional to the viewport height */
+    bottom: 10vh;  
     left: 0;
     right: 0;
     display: flex;
@@ -54,10 +54,10 @@
 /* mobile */
 @media only screen and (max-width: 600px) {
     .next-button {
-        font-size: 1.5rem; /* Adjust font size */
-        width: 80%; /* Adjust width */
-        height: 60px; /* Adjust height */
-        padding: 5px 10px; /* Adjust padding */
+        font-size: 1.5rem;  
+        width: 80%; 
+        height: 60px;  
+        padding: 5px 10px;  
     }
 
 

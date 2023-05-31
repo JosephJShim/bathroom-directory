@@ -17,7 +17,7 @@ function LandingPage() {
       // navigate to StudentStatus page after location fetched
       navigate('/studentstatus');
     });
-  }, [navigate]);  // navigate is dependency
+  }, [navigate]);  //dependency
 
 
   return (
