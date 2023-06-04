@@ -1,20 +1,22 @@
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 import RadioButton from './RadioButton';
 import './global.css';
 import './NextButton.css';
 
 function GenderSelection() {
-    const [genderSelection, setGenderSelection] = useState(null);
+    const { location, studentStatus } = useLocation().state;
+    const [gender, setGender] = useState(null);
     const navigate = useNavigate();
   
-    const handleSelect = (status) => {
-        setGenderSelection(status);
+    const handleSelect = (gender) => {
+      setGender(gender);
     };
   
     const handleNext = () => {
-      navigate('/featureselection');
+      navigate('/featureselection', { state: { location, studentStatus, gender } });
     };
+    
   
     return (
       <div className="page-bg1">
@@ -23,23 +25,23 @@ function GenderSelection() {
           <h2 className="prompt-text">What gender bathrooms?</h2>
           <RadioButton 
             label="Men/All Gender" 
-            selected={genderSelection === 'Men'} 
-            onSelect={() => handleSelect('Men')} 
+            selected={gender === 'Mens'} 
+            onSelect={() => handleSelect('Mens')} 
           />
           <RadioButton 
             label="Women/All Gender" 
-            selected={genderSelection === 'Women'} 
-            onSelect={() => handleSelect('Women')} 
+            selected={gender === 'Womens'} 
+            onSelect={() => handleSelect('Womens')} 
           />
           <RadioButton 
             label="All Gender" 
-            selected={genderSelection === 'All'} 
-            onSelect={() => handleSelect('All')} 
+            selected={gender === 'All Gender'} 
+            onSelect={() => handleSelect('All Gender')} 
           />
           <div className="next-button-container">
             <button 
               className="next-button" 
-              disabled={!genderSelection} 
+              disabled={!gender} 
               onClick={handleNext}
             >
               Next

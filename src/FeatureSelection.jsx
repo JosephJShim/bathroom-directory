@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, useLocation } from 'react-router-dom';
 import SelectableFeature from './SelectableFeature';
 import './global.css';
 import './NextButton.css';
 
 function FeatureSelection() {
+    const { location, studentStatus, gender } = useLocation().state; 
     const [selectedFeatures, setSelectedFeatures] = useState({});
     const navigate = useNavigate();
   
@@ -16,7 +17,7 @@ function FeatureSelection() {
     };
   
     const handleNext = () => {
-      navigate('/results');
+      navigate('/results', { state: { location, studentStatus, gender, selectedFeatures } });
     };
 
     return (

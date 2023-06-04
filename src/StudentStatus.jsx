@@ -1,10 +1,11 @@
 import React, { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import RadioButton from './RadioButton';
 import './global.css';
 import './NextButton.css';
 
 function StudentStatus() {
+    const { location } = useLocation().state; 
     const [studentStatus, setStudentStatus] = useState(null);
     const navigate = useNavigate();
   
@@ -13,8 +14,9 @@ function StudentStatus() {
     };
   
     const handleNext = () => {
-      navigate('/genderselection');
+      navigate('/genderselection', { state: { location, studentStatus } });
     };
+  
   
     return (
       <div className="page-bg1">

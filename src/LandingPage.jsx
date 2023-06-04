@@ -1,24 +1,19 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
+
 import './global.css';
 
-
-
 function LandingPage() {
-  const [location, setLocation] = useState(null);
   const navigate = useNavigate();
 
   useEffect(() => {
     navigator.geolocation.getCurrentPosition((position) => {
-      setLocation({
+      navigate('/studentstatus', { state: { location: {
         latitude: position.coords.latitude,
         longitude: position.coords.longitude,
-      });
-      // navigate to StudentStatus page after location fetched
-      navigate('/studentstatus');
+      }}});
     });
-  }, [navigate]);  //dependency
-
+  }, [navigate]);
 
   return (
     <div className="page-bg1">
@@ -27,11 +22,6 @@ function LandingPage() {
         <p className="prompt-text">
           To start, please allow access to your location.
         </p>
-        {location ? (
-          <p>Location: {location.latitude}, {location.longitude}</p>
-        ) : (
-          <p>Loading location...</p>
-        )}
       </div>
     </div>
   );
