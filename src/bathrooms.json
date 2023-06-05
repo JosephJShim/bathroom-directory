@@ -2403,61 +2403,61 @@
         "student": {
             "monday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "tuesday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "wednesday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "thursday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "friday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "saturday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "sunday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             }
         },
         "visitor": {
             "monday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "tuesday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "wednesday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "thursday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "friday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "saturday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "sunday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             }
         }
     },    
@@ -2480,61 +2480,61 @@
         "student": {
             "monday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "tuesday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "wednesday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "thursday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "friday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "saturday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "sunday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             }
         },
         "visitor": {
             "monday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "tuesday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "wednesday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "thursday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "friday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "saturday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             },
             "sunday": {
                 "open": "7:00",
-                "close": "21:00"
+                "close": "23:00"
             }
         }
     },    

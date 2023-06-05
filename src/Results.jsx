@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import { useLocation, Link } from 'react-router-dom';
+import { useLocation, useNavigate } from 'react-router-dom';
 import './global.css';
 import bathrooms from './bathrooms.json';
-
 
 function getDistance(lat1, lon1, lat2, lon2){
   const R = 6371e3;
@@ -21,6 +20,7 @@ function getDistance(lat1, lon1, lat2, lon2){
 };
 
 function Results() {
+  const navigate = useNavigate();
   const [filteredBathrooms, setFilteredBathrooms] = useState([]);
   const { location, studentStatus, gender, selectedFeatures } = useLocation().state;
 
@@ -125,29 +125,26 @@ function Results() {
 
   return (
     <div className="page-bg1">
-      <div className="page-bg2">
-        <h1 className="nu-bathroom-finder">NU Bathroom Finder</h1>
-        <div>
-          {filteredBathrooms.map((bathroom, index) => {
-            console.log('Preparing link for bathroom:', bathroom);
-            return (
-              <Link 
-                key={index} 
-                to={{
-                  pathname: '/BathroomPage',
-                  state: { bathroom: bathroom }
-                }}
-                onClick={() => console.log('Clicked link for bathroom:', bathroom)}
-              >
-                <p>{bathroom["Building Nickname"]} - {bathroom.Gender} - Floor {bathroom.Floor}</p>
-              </Link>
-            );
-          })}
-        </div>
+          <div className="page-bg2">
+            <h1 className="nu-bathroom-finder">NU Bathroom Finder</h1>
+      
+      {filteredBathrooms.map((bathroom, index) => {
+        return (
+          <p 
+            key={index} 
+            onClick={() => {
+              navigate('/BathroomPage', { state: { bathroom: bathroom } });
+            }}
+          >
+            {bathroom["Building Nickname"]} - {bathroom.Gender} - Floor {bathroom.Floor}
+          </p>
+        );
+      })}
       </div>
     </div>
   );
 }
+
 
 
 export default Results;
