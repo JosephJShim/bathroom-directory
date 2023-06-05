@@ -51,6 +51,8 @@ body, html {
     margin-bottom: 15px;
     margin-left: 15px;
     white-space: nowrap;
+    justify-content: center;
+    align-items: center;
 }
 .prompt-text {
     align-self: center;
@@ -58,6 +60,8 @@ body, html {
     margin-bottom: 15px;
     font-size: 1.511rem;
     line-height: 33px;
+    justify-content: center;
+    align-items: center;
 }
 
 /* multiple choice */
@@ -151,77 +155,39 @@ body, html {
   padding: 2px 7px; 
   cursor: pointer;
   background-color: white;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .result-box:first-child {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
-
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .result-box:last-child {
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .result-box:not(:last-child) {
   border-bottom: 2px solid #e0e0e0;
 }
 
+.bathroom-page-text {
+  font-size: 35px; /* increase font size for smaller screens */
+  padding: 5px; /* reduce padding for smaller screens */
+  margin: 15px;
+  align-self: center;
+  justify-content: center;
+  align-items: center;
+}
 
 
-/* for mobile */
-
-/* rotating screen
-.rotate-screen-overlay {
-  display: none;
-  position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-color: rgba(0,0,0,0.85);
-  color: #fff;
-  z-index: 99999;
-  text-align: center;
-  padding-top: 40%;
-  font-size: 2em;
-} */
-/* 
-@media screen and (max-width: 768px) and (orientation: landscape) {
-  body, html {
-    font-size: 0.5vw;
-  }
-
-  .page-bg1 {
-    font-size: 1.5vw;
-    padding-top: 0.2vw;
-    padding-bottom: 0.2vw;
-  }
-
-  .page-bg2 {
-    height: 90vh;
-    padding-top: 5vh;
-  }
-
-  .nu-bathroom-finder {
-    font-size: 1vw;
-    margin-top: 0.2vw;
-    margin-bottom: 0.2vw;
-  }
-
-  .prompt-text {
-    font-size: 1vw;
-  }
-
-  .radio-button {
-    padding: 0.2vw;
-    margin: 0.2vw;
-    width: 80vw;
-    height: 10vh;
-  }
-} */
+/* for phone screens */
 
 
 @media only screen and (max-width: 600px) {
@@ -241,6 +207,7 @@ body, html {
   .page-bg2 {
     height: 90%;
     padding-top: 40px;
+    align-items: center; 
   }
 
   .nu-bathroom-finder {
@@ -261,9 +228,15 @@ body, html {
     font-size: 20px; /* adjust this as needed for mobile view */
     }
 
-  .bathroom-page-text {
-        font-size: 20px; /* Adjust based on your preference */
+    .bathroom-page-text {
+      font-size: 20px;
+      padding: 0px;
+      margin: 0px auto; /* 5px margin top and bottom, automatic on the sides */
+      align-self: center;
+      justify-content: center;
+      align-items: center;
     }
+    
 
 
 }

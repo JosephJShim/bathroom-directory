@@ -22,6 +22,9 @@ function LandingPage() {
         <p className="prompt-text">
           To start, please allow access to your location.
         </p>
+        <p className="prompt-text">
+          You may have to allow location access from settings. 
+        </p>
       </div>
     </div>
   );

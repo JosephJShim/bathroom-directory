@@ -2,27 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { useLocation, useNavigate } from 'react-router-dom';
 import './global.css';
 import bathrooms from './bathrooms.json';
-import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
-import {apiKey} from './config.js';
 
-function MapComponent({latitude, longitude}, ) {
-  const containerStyle = {
-    width: '90%',
-    height: '400px',
-  };
-
-  const center = {
-    lat: latitude,
-    lng: longitude,
-  };
-  return (
-    <LoadScript googleMapsApiKey={apiKey}>
-      <GoogleMap mapContainerStyle={containerStyle} center={center} zoom={17}>
-        <Marker position={center} />
-      </GoogleMap>
-    </LoadScript>
-  );
-}
 function getDistance(lat1, lon1, lat2, lon2){
   const R = 6371e3;
   const φ1 = lat1 * Math.PI/180;
@@ -144,7 +124,6 @@ function Results() {
     <div className="page-bg1">
         <div className="page-bg2">
             <h1 className="nu-bathroom-finder">NU Bathroom Finder</h1>
-            <MapComponent latitude={location.latitude} longitude={location.longitude} />
             <div className="results-container">
                 {filteredBathrooms.map((bathroom, index) => {
                     return (
