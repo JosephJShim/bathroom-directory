@@ -14,8 +14,10 @@ function StudentStatus() {
     };
   
     const handleNext = () => {
+      console.log('Navigating with studentStatus:', studentStatus); //testing
       navigate('/genderselection', { state: { location, studentStatus } });
     };
+    
   
   
     return (
@@ -25,13 +27,13 @@ function StudentStatus() {
           <h2 className="prompt-text">Who are you?</h2>
           <RadioButton 
             label="I am a student" 
-            selected={studentStatus === 'Student'} 
-            onSelect={() => handleSelect('Student')} 
+            selected={studentStatus === 'student'} 
+            onSelect={() => handleSelect('student')} 
           />
           <RadioButton 
             label="I am a visitor" 
-            selected={studentStatus === 'Visitor'} 
-            onSelect={() => handleSelect('Visitor')} 
+            selected={studentStatus === 'visitor'} 
+            onSelect={() => handleSelect('visitor')} 
           />
           <div className="next-button-container">
             <button 

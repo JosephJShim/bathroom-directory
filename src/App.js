@@ -6,7 +6,7 @@ import StudentStatus from './StudentStatus';
 import GenderSelection from './GenderSelection';
 import FeatureSelection from './FeatureSelection';
 import Results from './Results';
-// import BathroomPage from './BathroomPage';
+import BathroomPage from './BathroomPage';
 
 function App() {
   return (
@@ -17,7 +17,7 @@ function App() {
     <Route path="/genderselection" element={<GenderSelection />} />
     <Route path="/featureselection" element={<FeatureSelection />} />
     <Route path="/results" element={<Results />} />
-    {/* <Route path="/bathroompage" element={<BathroomPage />} /> */}
+    <Route path="/bathroompage" element={<BathroomPage />} />
   </Routes>
 </Router>
 

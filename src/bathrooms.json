@@ -13,24 +13,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -48,24 +90,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -83,24 +167,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -118,24 +244,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -153,24 +321,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -188,24 +398,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -223,24 +475,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -258,24 +552,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -293,24 +629,66 @@
     "Long": -87.6722787,
     "hours": {
         "student": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+          "monday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "tuesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "wednesday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "thursday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "friday": {
+            "open": "7:00",
+            "close": "20:00"
+          },
+          "saturday": {
+            "open": "7:00",
+            "close": "17:00"
+          },
+          "sunday": {
+            "open": "0:00",
+            "close": "0:00"
+          }
         },
         "visitor": {
-          "monday": "7:00-20:00",
-          "tuesday": "7:00-20:00",
-          "wednesday": "7:00-20:00",
-          "thursday": "7:00-20:00",
-          "friday": "7:00-20:00",
-          "saturday": "7:00-17:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "tuesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "wednesday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "thursday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "friday": {
+              "open": "7:00",
+              "close": "20:00"
+            },
+            "saturday": {
+              "open": "7:00",
+              "close": "17:00"
+            },
+            "sunday": {
+              "open": "0:00",
+              "close": "0:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Kellogg+Global+Hub/@42.0574063,-87.6722787,15z/data=!4m6!3m5!1s0x880fda9e72756799:0xee8a28a6fcc18ccd!8m2!3d42.0574063!4d-87.6722787!16s%2Fg%2F11c37n7q94?entry=ttu",
     "ExtraInfo": "The Global Hub is accessible to Kellogg students, faculty and staff at any time using their WildCard."
     },
@@ -328,24 +706,67 @@
     "Long": -87.6729806,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "6:00-23:00",
-          "tuesday": "6:00-23:00",
-          "wednesday": "6:00-23:00",
-          "thursday": "6:00-23:00",
-          "friday": "6:00-22:00",
-          "saturday": "8:00-21:00",
-          "sunday": "9:00-22:00"
+            "monday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "6:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "8:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "9:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
+    
     "GoogleMaps": "https://www.google.com/maps/place/Henry+Crown+Sports+Pavilion/@42.0596373,-87.6729806,15z/data=!4m2!3m1!1s0x0:0x509c3569d8eb2a8e?sa=X&ved=2ahUKEwiV17eSwan_AhVUBTQIHWCSAgIQ_BJ6BAhpEAg",
     "ExtraInfo": "SPAC is accessible to students at any time using their WildCard. "
     },
@@ -363,24 +784,66 @@
     "Long": -87.6729806,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "6:00-23:00",
-          "tuesday": "6:00-23:00",
-          "wednesday": "6:00-23:00",
-          "thursday": "6:00-23:00",
-          "friday": "6:00-22:00",
-          "saturday": "8:00-21:00",
-          "sunday": "9:00-22:00"
+            "monday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "6:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "8:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "9:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Henry+Crown+Sports+Pavilion/@42.0596373,-87.6729806,15z/data=!4m2!3m1!1s0x0:0x509c3569d8eb2a8e?sa=X&ved=2ahUKEwiV17eSwan_AhVUBTQIHWCSAgIQ_BJ6BAhpEAg",
     "ExtraInfo": "SPAC is accessible to students at any time using their WildCard. "
     },
@@ -398,24 +861,66 @@
     "Long": -87.6729806,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "6:00-23:00",
-          "tuesday": "6:00-23:00",
-          "wednesday": "6:00-23:00",
-          "thursday": "6:00-23:00",
-          "friday": "6:00-22:00",
-          "saturday": "8:00-21:00",
-          "sunday": "9:00-22:00"
+            "monday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "6:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "8:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "9:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Henry+Crown+Sports+Pavilion/@42.0596373,-87.6729806,15z/data=!4m2!3m1!1s0x0:0x509c3569d8eb2a8e?sa=X&ved=2ahUKEwiV17eSwan_AhVUBTQIHWCSAgIQ_BJ6BAhpEAg",
     "ExtraInfo": "SPAC is accessible to students at any time using their WildCard. "
     },
@@ -433,24 +938,66 @@
     "Long": -87.6729806,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "6:00-23:00",
-          "tuesday": "6:00-23:00",
-          "wednesday": "6:00-23:00",
-          "thursday": "6:00-23:00",
-          "friday": "6:00-22:00",
-          "saturday": "8:00-21:00",
-          "sunday": "9:00-22:00"
+            "monday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "6:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "8:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "9:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Henry+Crown+Sports+Pavilion/@42.0596373,-87.6729806,15z/data=!4m2!3m1!1s0x0:0x509c3569d8eb2a8e?sa=X&ved=2ahUKEwiV17eSwan_AhVUBTQIHWCSAgIQ_BJ6BAhpEAg",
     "ExtraInfo": "SPAC is accessible to students at any time using their WildCard. "
     },
@@ -468,24 +1015,66 @@
     "Long": -87.6729806,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "6:00-23:00",
-          "tuesday": "6:00-23:00",
-          "wednesday": "6:00-23:00",
-          "thursday": "6:00-23:00",
-          "friday": "6:00-22:00",
-          "saturday": "8:00-21:00",
-          "sunday": "9:00-22:00"
+            "monday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "6:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "8:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "9:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Henry+Crown+Sports+Pavilion/@42.0596373,-87.6729806,15z/data=!4m2!3m1!1s0x0:0x509c3569d8eb2a8e?sa=X&ved=2ahUKEwiV17eSwan_AhVUBTQIHWCSAgIQ_BJ6BAhpEAg",
     "ExtraInfo": "SPAC is accessible to students at any time using their WildCard. "
     },
@@ -503,24 +1092,66 @@
     "Long": -87.6729806,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "6:00-23:00",
-          "tuesday": "6:00-23:00",
-          "wednesday": "6:00-23:00",
-          "thursday": "6:00-23:00",
-          "friday": "6:00-22:00",
-          "saturday": "8:00-21:00",
-          "sunday": "9:00-22:00"
+            "monday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "tuesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "wednesday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "thursday": {
+                "open": "6:00",
+                "close": "23:00"
+            },
+            "friday": {
+                "open": "6:00",
+                "close": "22:00"
+            },
+            "saturday": {
+                "open": "8:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "9:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Henry+Crown+Sports+Pavilion/@42.0596373,-87.6729806,15z/data=!4m2!3m1!1s0x0:0x509c3569d8eb2a8e?sa=X&ved=2ahUKEwiV17eSwan_AhVUBTQIHWCSAgIQ_BJ6BAhpEAg",
     "ExtraInfo": "SPAC is accessible to students at any time using their WildCard. "
     },
@@ -538,24 +1169,66 @@
     "Long": -87.6743748,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:00-22:00",
-          "tuesday": "8:00-22:00",
-          "wednesday": "8:00-22:00",
-          "thursday": "8:00-22:00",
-          "friday": "8:00-20:00",
-          "saturday": "10:00-20:00",
-          "sunday": "10:00-22:00"
+            "monday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "tuesday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "wednesday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "thursday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "friday": {
+                "open": "8:00",
+                "close": "20:00"
+            },
+            "saturday": {
+                "open": "10:00",
+                "close": "20:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Mudd+Library/@42.0583534,-87.6743748,15z/data=!4m2!3m1!1s0x0:0x303e4571ee131fdd?sa=X&ved=2ahUKEwj6qvHywan_AhVGCTQIHVHPAOIQ_BJ6BAhJEAg",
     "ExtraInfo": "Mudd Library is accessible to students at any time using their WildCard."
     },
@@ -573,24 +1246,66 @@
     "Long": -87.6743748,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:00-22:00",
-          "tuesday": "8:00-22:00",
-          "wednesday": "8:00-22:00",
-          "thursday": "8:00-22:00",
-          "friday": "8:00-20:00",
-          "saturday": "10:00-20:00",
-          "sunday": "10:00-22:00"
+            "monday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "tuesday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "wednesday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "thursday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "friday": {
+                "open": "8:00",
+                "close": "20:00"
+            },
+            "saturday": {
+                "open": "10:00",
+                "close": "20:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Mudd+Library/@42.0583534,-87.6743748,15z/data=!4m2!3m1!1s0x0:0x303e4571ee131fdd?sa=X&ved=2ahUKEwj6qvHywan_AhVGCTQIHVHPAOIQ_BJ6BAhJEAg",
     "ExtraInfo": "Mudd Library is accessible to students at any time using their WildCard."
     },
@@ -608,24 +1323,66 @@
     "Long": -87.6743748,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:00-22:00",
-          "tuesday": "8:00-22:00",
-          "wednesday": "8:00-22:00",
-          "thursday": "8:00-22:00",
-          "friday": "8:00-20:00",
-          "saturday": "10:00-20:00",
-          "sunday": "10:00-22:00"
+            "monday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "tuesday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "wednesday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "thursday": {
+                "open": "8:00",
+                "close": "22:00"
+            },
+            "friday": {
+                "open": "8:00",
+                "close": "20:00"
+            },
+            "saturday": {
+                "open": "10:00",
+                "close": "20:00"
+            },
+            "sunday": {
+                "open": "10:00",
+                "close": "22:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Mudd+Library/@42.0583534,-87.6743748,15z/data=!4m2!3m1!1s0x0:0x303e4571ee131fdd?sa=X&ved=2ahUKEwj6qvHywan_AhVGCTQIHVHPAOIQ_BJ6BAhJEAg",
     "ExtraInfo": "Mudd Library is accessible to students at any time using their WildCard."
     },
@@ -643,24 +1400,66 @@
     "Long": -87.675778,
     "hours": {
         "student": {
-          "monday": "11:00-1:00",
-          "tuesday": "11:00-1:00",
-          "wednesday": "11:00-1:00",
-          "thursday": "11:00-1:00",
-          "friday": "11:00-1:00",
-          "saturday": "11:00-1:00",
-          "sunday": "11:00-1:00"
+            "monday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "1:00"
+            }
         },
         "visitor": {
-          "monday": "11:00-1:00",
-          "tuesday": "11:00-1:00",
-          "wednesday": "11:00-1:00",
-          "thursday": "11:00-1:00",
-          "friday": "11:00-1:00",
-          "saturday": "11:00-1:00",
-          "sunday": "11:00-1:00"
+            "monday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "1:00"
+            }
         }
-      },
+    },    
     "GoogleMaps": "https://www.google.com/maps/place/Lisa%E2%80%99s+Cafe/@42.06024,-87.675778,15z/data=!4m6!3m5!1s0x880fdb82561ae08f:0xfb614eed54145ef6!8m2!3d42.06024!4d-87.675778!16s%2Fg%2F11hyc_vnm5?entry=ttu",
     "ExtraInfo": "The bathrooms at Lisa's are accessible to Slivka residents at any time using their WildCard. "
     },
@@ -678,24 +1477,66 @@
     "Long": -87.675778,
     "hours": {
         "student": {
-          "monday": "11:00-1:00",
-          "tuesday": "11:00-1:00",
-          "wednesday": "11:00-1:00",
-          "thursday": "11:00-1:00",
-          "friday": "11:00-1:00",
-          "saturday": "11:00-1:00",
-          "sunday": "11:00-1:00"
+            "monday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "1:00"
+            }
         },
         "visitor": {
-          "monday": "11:00-1:00",
-          "tuesday": "11:00-1:00",
-          "wednesday": "11:00-1:00",
-          "thursday": "11:00-1:00",
-          "friday": "11:00-1:00",
-          "saturday": "11:00-1:00",
-          "sunday": "11:00-1:00"
+            "monday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "tuesday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "wednesday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "thursday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "friday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "saturday": {
+                "open": "11:00",
+                "close": "1:00"
+            },
+            "sunday": {
+                "open": "11:00",
+                "close": "1:00"
+            }
         }
-      },
+    },
     "GoogleMaps": "https://www.google.com/maps/place/Lisa%E2%80%99s+Cafe/@42.06024,-87.675778,15z/data=!4m6!3m5!1s0x880fdb82561ae08f:0xfb614eed54145ef6!8m2!3d42.06024!4d-87.675778!16s%2Fg%2F11hyc_vnm5?entry=ttu",
     "ExtraInfo": "The bathrooms at Lisa's are accessible to Slivka residents at any time using their WildCard. "
     },
@@ -713,24 +1554,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },    
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -748,24 +1631,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -783,24 +1708,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -818,24 +1785,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -853,24 +1862,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -888,24 +1939,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -923,24 +2016,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -958,24 +2093,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -993,24 +2170,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -1028,24 +2247,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -1063,24 +2324,66 @@
     "Long": -87.6767299,
     "hours": {
         "student": {
-          "monday": "0:00-24:00",
-          "tuesday": "0:00-24:00",
-          "wednesday": "0:00-24:00",
-          "thursday": "0:00-24:00",
-          "friday": "0:00-24:00",
-          "saturday": "0:00-24:00",
-          "sunday": "0:00-24:00"
+            "monday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "tuesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "wednesday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "thursday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "friday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "24:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "24:00"
+            }
         },
         "visitor": {
-          "monday": "8:30-17:00",
-          "tuesday": "8:30-17:00",
-          "wednesday": "8:30-17:00",
-          "thursday": "8:30-17:00",
-          "friday": "8:30-17:00",
-          "saturday": "0:00-0:00",
-          "sunday": "0:00-0:00"
+            "monday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "tuesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "wednesday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "thursday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "friday": {
+                "open": "8:30",
+                "close": "17:00"
+            },
+            "saturday": {
+                "open": "0:00",
+                "close": "0:00"
+            },
+            "sunday": {
+                "open": "0:00",
+                "close": "0:00"
+            }
         }
-      },
+    },  
     "GoogleMaps": "https://www.google.com/maps/place/Ford+Motor+Company+Engineering+Design+Center/@42.057015,-87.6767299,15z/data=!4m2!3m1!1s0x0:0xf5116c7cb84e47ac?sa=X&ved=2ahUKEwiyq6eewqn_AhVEBjQIHVP2AWUQ_BJ6BAhqEAg",
     "ExtraInfo": "Ford Design Center is accessible is students at any time using their WildCard. "
     },
@@ -1098,24 +2401,66 @@
     "Long": -87.6789364,
     "hours": {
         "student": {
-          "monday": "7:00-21:00",
-          "tuesday": "7:00-21:00",
-          "wednesday": "7:00-21:00",
-          "thursday": "7:00-21:00",
-          "friday": "7:00-21:00",
-          "saturday": "7:00-21:00",
-          "sunday": "7:00-21:00"
+            "monday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "tuesday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "wednesday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "thursday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "friday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "saturday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "7:00",
+                "close": "21:00"
+            }
         },
         "visitor": {
-          "monday": "7:00-21:00",
-          "tuesday": "7:00-21:00",
-          "wednesday": "7:00-21:00",
-          "thursday": "7:00-21:00",
-          "friday": "7:00-21:00",
-          "saturday": "7:00-21:00",
-          "sunday": "7:00-21:00"
+            "monday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "tuesday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "wednesday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "thursday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "friday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "saturday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "7:00",
+                "close": "21:00"
+            }
         }
-      },
+    },    
     "GoogleMaps": "https://www.google.com/maps/place/Shepard+Hall/@42.0508743,-87.6789364,15z/data=!4m2!3m1!1s0x0:0x2a2d9c50c7ff4f02?sa=X&ved=2ahUKEwiiicaywqn_AhVLJjQIHYQ0BAwQ_BJ6BAhnEAc",
     "ExtraInfo": "Shepard Hall is accessible to South Area residents at any time using their WildCard"
     },
@@ -1133,24 +2478,66 @@
     "Long": -87.6789364,
     "hours": {
         "student": {
-          "monday": "7:00-21:00",
-          "tuesday": "7:00-21:00",
-          "wednesday": "7:00-21:00",
-          "thursday": "7:00-21:00",
-          "friday": "7:00-21:00",
-          "saturday": "7:00-21:00",
-          "sunday": "7:00-21:00"
+            "monday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "tuesday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "wednesday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "thursday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "friday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "saturday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "7:00",
+                "close": "21:00"
+            }
         },
         "visitor": {
-          "monday": "7:00-21:00",
-          "tuesday": "7:00-21:00",
-          "wednesday": "7:00-21:00",
-          "thursday": "7:00-21:00",
-          "friday": "7:00-21:00",
-          "saturday": "7:00-21:00",
-          "sunday": "7:00-21:00"
+            "monday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "tuesday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "wednesday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "thursday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "friday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "saturday": {
+                "open": "7:00",
+                "close": "21:00"
+            },
+            "sunday": {
+                "open": "7:00",
+                "close": "21:00"
+            }
         }
-      },
+    },    
     "GoogleMaps": "https://www.google.com/maps/place/Shepard+Hall/@42.0508743,-87.6789364,15z/data=!4m2!3m1!1s0x0:0x2a2d9c50c7ff4f02?sa=X&ved=2ahUKEwiiicaywqn_AhVLJjQIHYQ0BAwQ_BJ6BAhnEAc",
     "ExtraInfo": "Shepard Hall is accessible to South Area residents at any time using their WildCard"
     }
