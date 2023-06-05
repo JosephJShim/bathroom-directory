@@ -120,31 +120,32 @@ function Results() {
   }, [gender, location.latitude, location.longitude, selectedFeatures, studentStatus]);
 
 
-  // setFilteredBathrooms(filtered);
-  // console.log('Filtered bathrooms:', filtered);
-
   return (
     <div className="page-bg1">
-          <div className="page-bg2">
+        <div className="page-bg2">
             <h1 className="nu-bathroom-finder">NU Bathroom Finder</h1>
-      
-      {filteredBathrooms.map((bathroom, index) => {
-        return (
-          <p 
-            key={index} 
-            onClick={() => {
-              navigate('/BathroomPage', { state: { bathroom: bathroom } });
-            }}
-          >
-            {bathroom["Building Nickname"]} - {bathroom.Gender} - Floor {bathroom.Floor}
-          </p>
-        );
-      })}
-      </div>
+            <div className="results-container">
+                {filteredBathrooms.map((bathroom, index) => {
+                    return (
+                        <div 
+                            className="result-box"
+                            key={index} 
+                            onClick={() => {
+                                navigate('/BathroomPage', { state: { bathroom: bathroom } });
+                            }}
+                        >
+                            <p>
+                                {bathroom["Building Nickname"]} - {bathroom.Gender} - Floor {bathroom.Floor}
+                            </p>
+                        </div>
+                    );
+                })}
+            </div>
+        </div>
     </div>
-  );
-}
+);
 
+}
 
 
 export default Results;
